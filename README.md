@@ -2,8 +2,7 @@
 
 Personal portfolio. Computer science student working on machine learning, data, and generative AI — and learning Java full-stack.
 
-**Live site:** (https://gopika-pushpan.vercel.app/)
-https://gopika-pushpan.vercel.app/
+**Live site:** https://gopika-pushpan.vercel.app/
 
 ## About the build
 - Warm editorial design: cream paper, ink, single vermillion accent, Fraunces display serif.
